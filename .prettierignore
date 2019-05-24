@@ -1,0 +1,6 @@
+.editorconfig
+.gitignore
+.prettierignore
+**/.cache
+**/dist
+*.md
