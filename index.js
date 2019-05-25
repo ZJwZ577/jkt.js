@@ -42,7 +42,7 @@ var AddToHomeScreen = function(settings = {}) {
 </svg>`;
   var htmlContent =
     settings.htmlContent ||
-    `Install <strong>${brandName} web app</strong> on your iOS device: tap share and <strong>Add to Home Screen</strong> ↓`;
+    `Install <strong>${brandName} jkt app</strong> on your iOS device: tap share and <strong>Add to Home Screen</strong> ↓`;
   // Define iOS User-Agent variable
   var iOS = /iphone|ipad|ipod/.test(window.navigator.userAgent.toLowerCase());
   // Define standalone mode variable
